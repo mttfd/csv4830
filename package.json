@@ -1,0 +1,19 @@
+{
+  "name": "csv4830",
+  "version": "1.0.0",
+  "description": "for cs4830 exploration1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-mttfd:mttfd/csv4830.git"
+  },
+  "keywords": [
+    "Node",
+    "csv"
+  ],
+  "author": "Mingqin Tan",
+  "license": "MIT"
+}
